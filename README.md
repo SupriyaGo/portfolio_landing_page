@@ -8,6 +8,8 @@ https://user-images.githubusercontent.com/40319687/121019404-06194d80-c7bd-11eb-
 
 ### Using-
 
-#### React, react-bootstrap, react-particals, react-typed, fontawesome
+#### React, react-bootstrap, react-particals, react-typed, fontawesome for client side,
+
+#### Cloudflare.com to deply the site .
 
 ### Have a look - https://portfolio-landing-page.pages.dev/
